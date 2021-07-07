@@ -45,7 +45,7 @@
     "@stdlib/assert-is-positive-integer": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/assert-is-windows": "^0.0.x",
-    "@stdlib/cli": "^0.0.x",
+    "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/datasets-emoji-code-picto": "^0.0.x",
     "@stdlib/fs-close": "^0.0.x",
     "@stdlib/fs-open": "^0.0.x",
