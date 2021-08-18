@@ -1647,11 +1647,11 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
 
-[@stdlib/repl]: https://github.com/stdlib-js/stdlib
+[@stdlib/repl]: https://github.com/stdlib-js/repl
 
-[@stdlib/datasets/emoji]: https://github.com/stdlib-js/stdlib
+[@stdlib/datasets/emoji]: https://github.com/stdlib-js/datasets-emoji
 
-[@stdlib/datasets/emoji-code-picto]: https://github.com/stdlib-js/stdlib
+[@stdlib/datasets/emoji-code-picto]: https://github.com/stdlib-js/datasets-emoji-code-picto
 
 </section>
 
