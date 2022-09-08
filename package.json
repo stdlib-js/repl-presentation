@@ -57,10 +57,10 @@
     "@stdlib/regexp-eol": "^0.0.x",
     "@stdlib/repl": "^0.0.x",
     "@stdlib/streams-node-stdin": "^0.0.x",
+    "@stdlib/string-base-replace": "^0.0.x",
     "@stdlib/string-format": "^0.0.x",
     "@stdlib/string-lowercase": "^0.0.x",
     "@stdlib/string-repeat": "^0.0.x",
-    "@stdlib/string-replace": "^0.0.x",
     "@stdlib/string-starts-with": "^0.0.x",
     "@stdlib/string-trim": "^0.0.x",
     "@stdlib/utils-constructor-name": "^0.0.x",
@@ -77,6 +77,7 @@
   "devDependencies": {
     "@stdlib/fs-read-dir": "^0.0.x",
     "@stdlib/fs-write-file": "^0.0.x",
+    "@stdlib/string-replace": "^0.0.x",
     "@stdlib/utils-extname": "^0.0.x",
     "@stdlib/utils-keys": "^0.0.x"
   },
