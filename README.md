@@ -1500,10 +1500,10 @@ function next() {
 
 ## Installation
 
-To use the module as a general utility, install the module globally
+To use as a general utility, install the CLI package globally
 
 ```bash
-npm install -g @stdlib/repl-presentation
+npm install -g @stdlib/repl-presentation-cli
 ```
 
 </section>
@@ -1656,6 +1656,10 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[cli-section]: https://github.com/stdlib-js/repl-presentation#cli
+[cli-url]: https://github.com/stdlib-js/repl-presentation/tree/cli
+[@stdlib/repl-presentation]: https://github.com/stdlib-js/repl-presentation/tree/main
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/repl-presentation/main/LICENSE
 
