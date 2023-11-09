@@ -55,7 +55,7 @@
     "@stdlib/process-cwd": "^0.1.1",
     "@stdlib/process-read-stdin": "^0.1.1",
     "@stdlib/regexp-eol": "^0.1.1",
-    "@stdlib/repl": "^0.0.11",
+    "@stdlib/repl": "^0.1.1",
     "@stdlib/streams-node-stdin": "^0.1.1",
     "@stdlib/string-base-replace": "^0.1.1",
     "@stdlib/string-format": "^0.1.1",

@@ -355,7 +355,7 @@ npm install @stdlib/repl-presentation
 var Presentation = require( '@stdlib/repl-presentation' );
 ```
 
-#### Presentation( \[text,\] repl\[, options] )
+#### Presentation( \[text,] repl\[, options] )
 
 Returns a [REPL][@stdlib/repl] presentation instance for running a presentation in a provided [`repl`][@stdlib/repl].
 
