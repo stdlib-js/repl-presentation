@@ -51,7 +51,7 @@
     "@stdlib/fs-read-file": "^0.2.1",
     "@stdlib/math-base-special-clamp": "^0.2.1",
     "@stdlib/math-base-special-max": "^0.2.1",
-    "@stdlib/math-base-special-wrap": "^0.2.1",
+    "@stdlib/math-base-special-wrap": "^0.2.2",
     "@stdlib/process-cwd": "^0.2.1",
     "@stdlib/process-read-stdin": "^0.2.1",
     "@stdlib/regexp-eol": "^0.2.1",
