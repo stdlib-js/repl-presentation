@@ -59,7 +59,7 @@ This package allows building presentations using only a [REPL][@stdlib/repl] env
 
 ### Authoring
 
-A [REPL][@stdlib/repl] presentation source file is a text file which includes minimal markup for delineating slides, slide fragments, speaker notes, code, text alignment, and styling. 
+A [REPL][@stdlib/repl] presentation source file is a text file which includes minimal markup for delineating slides, slide fragments, speaker notes, code, text alignment, and styling.
 
 #### Slides
 
@@ -1635,7 +1635,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
