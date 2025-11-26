@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-24)
+## Unreleased (2025-11-26)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#8100](https://github.com/stdlib-js/stdlib/issues/8100)
+[#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d7f19cc`](https://github.com/stdlib-js/stdlib/commit/d7f19cccf74cde79f8ce40ab12bd7adb4c77c101) - **chore:** fix JavaScript lint errors [(#8581)](https://github.com/stdlib-js/stdlib/pull/8581) _(by Divyanshu)_
 -   [`291b901`](https://github.com/stdlib-js/stdlib/commit/291b90133cad7a6efc3b2c27dfbcfff54bd1f128) - **refactor:** move `onDrain` function to outer scope [(#8111)](https://github.com/stdlib-js/stdlib/pull/8111) _(by Payal Goswami)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -38,8 +39,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Divyanshu
 -   Payal Goswami
 -   Philipp Burckhardt
 
