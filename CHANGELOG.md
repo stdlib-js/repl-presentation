@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-26)
+## Unreleased (2025-12-02)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567)
+[#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8670](https://github.com/stdlib-js/stdlib/issues/8670)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`bdee45c`](https://github.com/stdlib-js/stdlib/commit/bdee45c142a6e5a8d9dea6d28861900585fc3ac6) - **chore:** fix JavaScript lint errors [(#8686)](https://github.com/stdlib-js/stdlib/pull/8686) _(by Rohit R Bhat, Athan Reines)_
 -   [`d7f19cc`](https://github.com/stdlib-js/stdlib/commit/d7f19cccf74cde79f8ce40ab12bd7adb4c77c101) - **chore:** fix JavaScript lint errors [(#8581)](https://github.com/stdlib-js/stdlib/pull/8581) _(by Divyanshu)_
 -   [`291b901`](https://github.com/stdlib-js/stdlib/commit/291b90133cad7a6efc3b2c27dfbcfff54bd1f128) - **refactor:** move `onDrain` function to outer scope [(#8111)](https://github.com/stdlib-js/stdlib/pull/8111) _(by Payal Goswami)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
@@ -39,11 +40,13 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Divyanshu
 -   Payal Goswami
 -   Philipp Burckhardt
+-   Rohit R Bhat
 
 </section>
 
