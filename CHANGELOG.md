@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-13)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8670](https://github.com/stdlib-js/stdlib/issues/8670)
+[#8100](https://github.com/stdlib-js/stdlib/issues/8100), [#8567](https://github.com/stdlib-js/stdlib/issues/8567), [#8670](https://github.com/stdlib-js/stdlib/issues/8670), [#9715](https://github.com/stdlib-js/stdlib/issues/9715)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`24c8448`](https://github.com/stdlib-js/stdlib/commit/24c84489858238aac982a4560b69a50634e71c60) - **chore:** fix JavaScript lint errors [(#9719)](https://github.com/stdlib-js/stdlib/pull/9719) _(by Shubham)_
 -   [`bdee45c`](https://github.com/stdlib-js/stdlib/commit/bdee45c142a6e5a8d9dea6d28861900585fc3ac6) - **chore:** fix JavaScript lint errors [(#8686)](https://github.com/stdlib-js/stdlib/pull/8686) _(by Rohit R Bhat, Athan Reines)_
 -   [`d7f19cc`](https://github.com/stdlib-js/stdlib/commit/d7f19cccf74cde79f8ce40ab12bd7adb4c77c101) - **chore:** fix JavaScript lint errors [(#8581)](https://github.com/stdlib-js/stdlib/pull/8581) _(by Divyanshu)_
 -   [`291b901`](https://github.com/stdlib-js/stdlib/commit/291b90133cad7a6efc3b2c27dfbcfff54bd1f128) - **refactor:** move `onDrain` function to outer scope [(#8111)](https://github.com/stdlib-js/stdlib/pull/8111) _(by Payal Goswami)_
@@ -40,13 +41,14 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
 -   Payal Goswami
 -   Philipp Burckhardt
 -   Rohit R Bhat
+-   Shubham
 
 </section>
 
