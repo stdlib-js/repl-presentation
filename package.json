@@ -45,7 +45,7 @@
     "@stdlib/assert-is-string": "^0.2.3",
     "@stdlib/assert-is-windows": "^0.2.3",
     "@stdlib/cli-ctor": "^0.2.3",
-    "@stdlib/datasets-emoji-code-picto": "^0.2.2",
+    "@stdlib/datasets-emoji-code-picto": "^0.2.3",
     "@stdlib/fs-close": "^0.2.3",
     "@stdlib/fs-open": "^0.2.3",
     "@stdlib/fs-read-file": "^0.2.3",
@@ -79,7 +79,7 @@
     "@stdlib/fs-read-dir": "^0.2.3",
     "@stdlib/fs-write-file": "^0.2.3",
     "@stdlib/string-replace": "^0.2.3",
-    "@stdlib/utils-extname": "^0.2.2",
+    "@stdlib/utils-extname": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.3"
   },
   "engines": {
