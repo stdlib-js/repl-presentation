@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-25)
+## Unreleased (2026-04-27)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11803](https://github.com/stdlib-js/stdlib/issues/11803)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`bb1eae9`](https://github.com/stdlib-js/stdlib/commit/bb1eae9b25d30411bbe6dd1c5a4d9e4a7cf9a578) - **chore:** fix JavaScript lint errors [(#11813)](https://github.com/stdlib-js/stdlib/pull/11813) _(by Matt Van Horn)_
 -   [`cc0ab62`](https://github.com/stdlib-js/stdlib/commit/cc0ab62448395c0044c20fa8de044752a4edace2) - **docs:** add missing trailing periods in README descriptions [(#11751)](https://github.com/stdlib-js/stdlib/pull/11751) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +37,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Matt Van Horn
 -   Philipp Burckhardt
 
 </section>
